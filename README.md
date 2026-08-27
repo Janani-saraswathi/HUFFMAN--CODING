@@ -77,3 +77,7 @@ for (char, frequency) in freq:
 
 # Output:
 <img width="281" height="262" alt="image" src="https://github.com/user-attachments/assets/3e156982-ad3f-4c66-be3d-194530102a9f" />
+
+# Result
+Thus the huffman coding was implemented to compress the data using python programming.
+
